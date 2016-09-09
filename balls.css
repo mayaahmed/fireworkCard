@@ -1,0 +1,12 @@
+body{
+margin: 0px;
+ background: rgba(0,0,0,0.8);
+}
+
+canvas{
+margin: 20px 20px 20px;
+height:300px;
+width:300px;
+box-shadow: 10px 10px 10px rgba(0,0,0,0.1);
+
+}
